@@ -1,6 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dkakinoki&count_private=true&show_icons=true&theme=gradient)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dkakinoki&count_private=true&show_icons=true&theme=bear)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkakinoki&langs_count=10&layout=compact&theme=gradienthide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkakinoki&langs_count=10&layout=compact&theme=bear&hide=html)
 
 <!--
 **dkakinoki/dkakinoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
