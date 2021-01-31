@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dkakinoki&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkakinoki)](https://github.com/dkakinoki/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkakinoki)
+
 <!--
 **dkakinoki/dkakinoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
